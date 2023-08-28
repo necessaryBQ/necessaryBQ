@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @necessaryBQ
-- 👀 I’m interested in coding, cooking, reading, dog, drum, painting
+- 👀 I’m interested in django, java, python, C++
 - 🌱 I’m currently learning python, js, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
